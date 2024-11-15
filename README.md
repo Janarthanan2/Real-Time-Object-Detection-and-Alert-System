@@ -1,5 +1,5 @@
 # REAL TIME OBJECT DETECTION AND ALERT SYSTEM
-## DESCRIPTION:
+# DESCRIPTION:
 <div align="justify">
 The demand for efficient and trustworthy security systems has become increasingly important in consumer and business environments. These systems are designed to enhance real-time monitoring and threat detection across various environments, such as public spaces, transportation hubs, and critical infrastructure. Traditional methods of surveillance rely on human beings monitoring the scene 24/7 which can be inefficient, resource intensive, and it is often difficult for someone to maintain constant attention.  To help address this project explains Real-Time Object Detection and Alert System which utilizes high-level object detection of motion activity to improve security. The system is designed to automatically detect an object and monitor the action within a defined area and alert when unauthorized movement is detected.
 </div>
