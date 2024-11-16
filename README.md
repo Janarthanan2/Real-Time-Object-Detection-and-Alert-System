@@ -29,8 +29,8 @@ def send_sms_alert():
     client = Client(account_sid, auth_token)
     message = client.messages.create(
         body="Alert: Object moved out of the defined boundary!",
-        from_='+15803664963',
-        to='+918438373774'
+        from_='+15803664000',
+        to='+918400000000'
     )
     print(f"SMS sent: {message.sid}")
 
